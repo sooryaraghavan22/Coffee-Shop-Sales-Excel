@@ -1,9 +1,5 @@
 # Coffee Shop Sales Data Analysis Using Excel
 
-📍Download the [dataset](https://docs.google.com/spreadsheets/d/1RhYgVUZyJc8TK21bT-zYxHeT8YdJur9Z/edit?gid=795000010#gid=795000010) from here.
-
-📍Download the complete [report](https://1drv.ms/x/c/b4ce05fac8f79928/EalDunwceTdBkAyEkiD0x4MBig5u8aTEEz5eRGiNW83YBA?e=lARokb) from here.
-
 ## Objective
 The Coffee Shop aims to create a 6-month sales report (January to June) to understand customer behavior and enhance sales growth from July onward. I have developed an advanced Coffee Shop Dashboard using Excel to achieve this goal.
 
